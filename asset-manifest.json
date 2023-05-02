@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ComeUp-DAO/static/css/main.07e5cc64.css",
+    "main.css": "/ComeUp-DAO/static/css/main.212d6787.css",
     "main.js": "/ComeUp-DAO/static/js/main.4ef47e2c.js",
     "static/js/787.7c25981b.chunk.js": "/ComeUp-DAO/static/js/787.7c25981b.chunk.js",
     "static/media/Rectangle.png": "/ComeUp-DAO/static/media/Rectangle.7e5bec10aa47b5af29ee.png",
@@ -9,14 +9,13 @@
     "static/media/Frame.png": "/ComeUp-DAO/static/media/Frame.35c090a3838f43963573.png",
     "static/media/Avatar.png": "/ComeUp-DAO/static/media/Avatar.970ca85973b077a31963.png",
     "static/media/img.png": "/ComeUp-DAO/static/media/img.ed0bbc91416bedb0cc9b.png",
-    "static/media/Vector.png": "/ComeUp-DAO/static/media/Vector.cd8eff458d37530300d3.png",
     "index.html": "/ComeUp-DAO/index.html",
-    "main.07e5cc64.css.map": "/ComeUp-DAO/static/css/main.07e5cc64.css.map",
+    "main.212d6787.css.map": "/ComeUp-DAO/static/css/main.212d6787.css.map",
     "main.4ef47e2c.js.map": "/ComeUp-DAO/static/js/main.4ef47e2c.js.map",
     "787.7c25981b.chunk.js.map": "/ComeUp-DAO/static/js/787.7c25981b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.07e5cc64.css",
+    "static/css/main.212d6787.css",
     "static/js/main.4ef47e2c.js"
   ]
 }
