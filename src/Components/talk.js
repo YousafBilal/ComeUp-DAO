@@ -1,4 +1,5 @@
 import React from "react";
+import Img5 from '../images/Frame.png'
 
 
 function  Talk() {
@@ -6,7 +7,7 @@ function  Talk() {
         <>
         <div className=" h-[200vh] flex flex-wrap">
         <div className='w-[100%]  mt-[10%] '>
-        <img src='/images/Frame.png' className='ml-[6%] '/>
+        <img src={Img5} className='ml-[6%] '/>
       </div>
        <div className='vc h-[60%]  w-[25%]  mt-[20%] ml-[75%]  absolute z-[-1] rounded-l-full '> </div>
         <div className='lg:w-[100%] w-[100%] lg:flex '>

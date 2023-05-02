@@ -1,4 +1,5 @@
 import React from "react";
+import Img2 from  '../images/image.png'
 
 
 function Navbar() {
@@ -8,7 +9,7 @@ function Navbar() {
             <div className=" container flex flex-wrap mx-auto  p-5 item-center flex-col  md:flex-row ">
                 <a className=" text-gray-900 font-medium title-font  mb-4 md:mb-0  flex">
                     <span className="text-xl ml-3">
-                        <img src="/images/image.png" className="h-[7vh] lg:w-[7vw] md:w-[4vw] sm:w-[2vw] "/>
+                        <img src={Img2} className="h-[7vh] lg:w-[7vw] md:w-[4vw] sm:w-[2vw] "/>
                     </span>
                 </a>
                 <nav className="items-center text-base flex flex-wrap justify-center  mr-3 md:ml-auto ">

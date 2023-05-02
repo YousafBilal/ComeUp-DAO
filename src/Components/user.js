@@ -1,6 +1,7 @@
 import React from "react";
 // import Users from "../store";
 import { Container,Row,Col } from 'react-bootstrap'
+import Img6 from '../images/Avatar.png'
 
 
 function User() {
@@ -12,87 +13,87 @@ function User() {
         
         <Row className='flex flex-wrap justify-between '>
             <Col className='flex w-[25%] mb-3' >
-            <img src="/images/Avatar.png"  className='h-[50px] w-[50px]'/>
+            <img src={Img6}  className='h-[50px] w-[50px]'/>
             <p className='mt-3 ml-6'>Jhon Deo</p>
             </Col>
             <Col className='flex w-[25%] mb-3' > 
-            <img src="/images/Avatar.png" className='h-[50px] w-[50px]'/>
+            <img src={Img6} className='h-[50px] w-[50px]'/>
             <p className='mt-3 ml-6'>Jhon Deo</p>
             </Col>
             <Col className='flex w-[25%] mb-3' > 
-            <img src="/images/Avatar.png" className='h-[50px] w-[50px]'/>
+            <img src={Img6} className='h-[50px] w-[50px]'/>
             <p className='mt-3 ml-6'>Jhon Deo</p>
             </Col>
             <Col className='flex w-[25%] mb-3' > 
-            <img src="/images/Avatar.png" className='h-[50px] w-[50px]'/>
+            <img src={Img6} className='h-[50px] w-[50px]'/>
             <p className='mt-3 ml-6'>Jhon Deo</p>
             </Col>
 
             <Col className='flex w-[25%] mb-3' >
-            <img src="/images/Avatar.png"  className='h-[50px] w-[50px]'/>
+            <img src={Img6}  className='h-[50px] w-[50px]'/>
             <p className='mt-3 ml-6'>Jhon Deo</p>
             </Col>
             <Col className='flex w-[25%] mb-3'  > 
-            <img src="/images/Avatar.png" className='h-[50px] w-[50px]'/>
+            <img src={Img6} className='h-[50px] w-[50px]'/>
             <p className='mt-3 ml-6'>Jhon Deo</p>
             </Col>
             <Col className='flex w-[25%] mb-3' >
-               <img src="/images/Avatar.png" className='h-[50px] w-[50px]'/>
+               <img src={Img6} className='h-[50px] w-[50px]'/>
             <p className='mt-3 ml-6'>Jhon Deo</p>
             </Col>
             <Col className='flex w-[25%] mb-3' > 
-            <img src="/images/Avatar.png" className='h-[50px] w-[50px]'/>
+            <img src={Img6} className='h-[50px] w-[50px]'/>
             <p className='mt-3 ml-6'>Jhon Deo</p>
             </Col>
 
             <Col className='flex w-[25%] mb-3' >
-            <img src="/images/Avatar.png"  className='h-[50px] w-[50px]'/>
+            <img src={Img6}  className='h-[50px] w-[50px]'/>
             <p className='mt-3 ml-6'>Jhon Deo</p>
             </Col>
             <Col className='flex w-[25%] mb-3'  > 
-            <img src="/images/Avatar.png" className='h-[50px] w-[50px]'/>
+            <img src={Img6} className='h-[50px] w-[50px]'/>
             <p className='mt-3 ml-6'>Jhon Deo</p>
             </Col>
             <Col className='flex w-[25%] mb-3' >
-               <img src="/images/Avatar.png" className='h-[50px] w-[50px]'/>
+               <img src={Img6} className='h-[50px] w-[50px]'/>
             <p className='mt-3 ml-6'>Jhon Deo</p>
             </Col>
             <Col className='flex w-[25%] mb-3' > 
-            <img src="/images/Avatar.png" className='h-[50px] w-[50px]'/>
+            <img src={Img6} className='h-[50px] w-[50px]'/>
             <p className='mt-3 ml-6'>Jhon Deo</p>
             </Col>
 
             <Col className='flex w-[25%] mb-3' >
-            <img src="/images/Avatar.png"  className='h-[50px] w-[50px]'/>
+            <img src={Img6}  className='h-[50px] w-[50px]'/>
             <p className='mt-3 ml-6'>Jhon Deo</p>
             </Col>
             <Col className='flex w-[25%] mb-3'  > 
-            <img src="/images/Avatar.png" className='h-[50px] w-[50px]'/>
+            <img src={Img6} className='h-[50px] w-[50px]'/>
             <p className='mt-3 ml-6'>Jhon Deo</p>
             </Col>
             <Col className='flex w-[25%] mb-3' > 
-            <img src="/images/Avatar.png" className='h-[50px] w-[50px]'/>
+            <img src={Img6} className='h-[50px] w-[50px]'/>
             <p className='mt-3 ml-6'>Jhon Deo</p>
             </Col>
             <Col className='flex w-[25%] mb-3' > 
-            <img src="/images/Avatar.png" className='h-[50px] w-[50px]'/>
+            <img src={Img6} className='h-[50px] w-[50px]'/>
             <p className='mt-3 ml-6'>Jhon Deo</p>
             </Col>
 
             <Col className='flex w-[25%] mb-3' >
-            <img src="/images/Avatar.png"  className='h-[50px] w-[50px]'/>
+            <img src={Img6}  className='h-[50px] w-[50px]'/>
             <p className='mt-3 ml-6'>Jhon Deo</p>
             </Col>
             <Col className='flex w-[25%] mb-3'  > 
-            <img src="/images/Avatar.png" className='h-[50px] w-[50px]'/>
+            <img src={Img6} className='h-[50px] w-[50px]'/>
             <p className='mt-3 ml-6'>Jhon Deo</p>
             </Col>
             <Col className='flex w-[25%] mb-3' >
-               <img src="/images/Avatar.png" className='h-[50px] w-[50px]'/>
+               <img src={Img6} className='h-[50px] w-[50px]'/>
             <p className='mt-3 ml-6'>Jhon Deo</p>
             </Col>
             <Col className='flex w-[25%] mb-3 ' > 
-            <img src="/images/Avatar.png" className='h-[50px] w-[50px]'/>
+            <img src={Img6} className='h-[50px] w-[50px]'/>
             <p className='mt-3 ml-6'>Jhon Deo</p>
             </Col>
 

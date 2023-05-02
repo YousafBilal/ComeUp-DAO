@@ -2,6 +2,7 @@ import React ,{useState} from 'react'
 import { useNavigate } from "react-router-dom";
 import Navbar1 from '../Components/navbar1';
 import Footer from '../Components/footer';
+import Img8 from '../images/Stroke.png'
 
 export default function Page4(){
     const navigate = useNavigate();
@@ -43,7 +44,7 @@ navigate("/page5")
                  </div>
     </form>
                 <div className='h-[390px]  w-[359.3px] absolute z-[-2] ml-[73.4%]'>
-                <img src='/images/Stroke.png' className='   my-[-20vh]'/>
+                <img src={Img8} className='   my-[-20vh]'/>
               </div>
             </div>
             <Footer/>

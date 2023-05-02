@@ -1,4 +1,5 @@
 import React from 'react'
+import Img from '../images/img1.png'
 
  function Employer() {
   return (
@@ -32,7 +33,7 @@ import React from 'react'
 </div>
         </div>
       <div className='h-[90vh] lg:w-[50%] w-[100%] mt-[10%] '>
-        <img src='/images/img1.png' className='ml-[15%]'/>
+        <img src={Img} className='ml-[15%]'/>
       </div>
 
       

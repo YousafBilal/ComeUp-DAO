@@ -1,12 +1,12 @@
 import React from 'react'
-
+import Img4 from '../images/img.png'
 
  function Seekers() {
   return (
     <>
     <div className='flex flex-wrap'>
         <div className='h-[90vh] lg:w-[50%] w-[100%]  '>
-            <img src="/images/img.png" className='lg:h-[70vh] h-[60vh] w-[78%] mt-[155px] ml-[13%]'/>
+            <img src={Img4} className='lg:h-[70vh] h-[60vh] w-[78%] mt-[155px] ml-[13%]'/>
             </div>
             <div className='h-[90vh] lg:w-[50%] w-[100%] flex '>
                 <div className='w-[100%]  mb-[-100px] h-[auto] flex'style={{overflow:"hidden",position:"relative"}} >

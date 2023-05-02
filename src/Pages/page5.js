@@ -15,6 +15,7 @@ import {RiFootballLine} from 'react-icons/ri'
 import {TbPackages} from 'react-icons/tb'
 import {IoPerson} from 'react-icons/io5'
 import Footer from '../Components/footer';
+import Img9 from '../images/step5.png'
 export default function Page5() {
     const navigate = useNavigate();
     const Previous = () => {
@@ -133,7 +134,7 @@ navigate("/complete")
             <IoPerson className='text-2xl font-bold'/>
             <h4>Profile Strength</h4>
         </div>
-        <img src='/images/step5.png' className='ml-[20%] h-[50vh] mt-[-15vh]  '/>
+        <img src={Img9} className='ml-[20%] h-[50vh] mt-[-15vh]  '/>
         <button className='text-indigo-800 ml-[5%] p-[1.3%] mt-[40px] w-[90%] text-semibold hover:bg-indigo-800 hover:text-white text-xl rounded-xl'style={{border:'1px solid #49478C'}} >Download Cv</button>
 
     </div>
