@@ -36,3 +36,46 @@
     transform: rotate(360deg);
   }
 }
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.op{
+  color: rgba(99, 94, 163, 1);
+}
+.op1{
+  color: rgba(99, 94, 163, 1);
+  
+}
+.btn{
+  border:2px solid rgba(99, 94, 163, 1); 
+  color: rgba(99, 94, 163, 1); 
+}
+.btn:hover{
+  background: linear-gradient(85.89deg, #49478C 7.82%, #9756FF 117.28%);
+color: white;
+}
+.vc{
+  background-color: rgba(248, 203, 3, 0.13);
+}
+.btn2{
+  background-color: rgba(99, 94, 163, 1);
+}
+.btn1{
+  background: linear-gradient(85.89deg, #49478C 7.82%, #9756FF 117.28%);
+  border-radius: 10px;
+}
+
+.bg{
+  background-image: url("./images/Vector.png");
+  background-size: 100% 100%;
+}
+.img{
+  background-image: url("./images/img2.png");
+  background-size: 100% 100%;
+}
+.img1{
+  background-image: url('./images/Rectangle.png');
+  background-size: 100% 100%;
+}
+
