@@ -16,6 +16,7 @@ import {TbPackages} from 'react-icons/tb'
 import {IoPerson} from 'react-icons/io5'
 import Footer from '../Components/footer';
 import Img9 from '../images/step5.png'
+import Img15 from '../images/Avatar.png'
 export default function Page5() {
     const navigate = useNavigate();
     const Previous = () => {
@@ -29,7 +30,7 @@ navigate("/complete")
     <div className='flex flex-wrap bg-white rounded-xl w-[80%] ml-[10%]   shadow-[5px_5px_20px_gray]'>
     <div className='border h-[110vh] w-[24%] ml-[5%] rounded-xl mt-[60px]  shadow-[5px_5px_20px_gray]'>
     <nav className="text-center">
-                <img src='/images/Avatar.png' className=" lg:w-[49%] md:w-[40%] sm:w-[20%] ml-[25%] mt-[60px] rounded-xl  "/>
+                <img src={Img15} className=" lg:w-[49%] md:w-[40%] sm:w-[20%] ml-[25%] mt-[60px] rounded-xl  "/>
                     
                     <a className=" mt-[2%] text-xl font-semibold leading-10">Wade Warren</a>
                     <p>Front End Develpoer</p>

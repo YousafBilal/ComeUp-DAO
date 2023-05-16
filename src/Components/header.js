@@ -1,6 +1,6 @@
 import React from "react";
 import SignUp from "./signup";
-import Img1 from '../image/Ellipse 6 (Stroke).png'
+import Img1 from '../images/Ellipse 6 (Stroke).png'
 
 function Header() {
     return(

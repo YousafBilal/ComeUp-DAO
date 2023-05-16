@@ -3,6 +3,8 @@ import { useNavigate } from "react-router-dom";
 import Navbar1 from '../Components/navbar1';
 import Footer from '../Components/footer';
 import Img7 from '../images/Stroke.png'
+import Img11 from '../images/step2.png'
+
 export default function Page2(){
     const navigate = useNavigate();
     const shoot = () => {
@@ -19,7 +21,7 @@ navigate("/page3")
             <div className='h-[90vh] border border-red-500'>
             <form className='h-[90vh] w-[70%] mx-auto my-[-10vh] rounded-xl bg-white shadow-[5px_5px_20px_gray]'>
                 <div className='w-[100%] flex justify-center pt-10 items-center'>
-                    <img src='/images/step2.png'/>
+                    <img src={Img11}/>
                 </div>
         <div className=' w-[80%] mx-auto'>
             <div className='flex  mt-10'>
