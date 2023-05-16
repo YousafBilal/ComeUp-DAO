@@ -1,5 +1,6 @@
 import React from "react";
 import Img3 from '../images/image.png'
+import Img22 from '../images/Avatar.png'
 
 
 function Navbar1() {
@@ -13,7 +14,7 @@ function Navbar1() {
                     </span>
                 </a>
                 <nav className="items-center text-base flex flex-wrap justify-center  mr-3 md:ml-auto ">
-                <img src="/images/avatar.png" className="h-[56px] lg:w-[30%] md:w-[40%] sm:w-[20%]  "/>
+                <img src={Img22} className="h-[56px] lg:w-[30%] md:w-[40%] sm:w-[20%]  "/>
                     
                     <a className="op1 mr-5 pl-2 ">Wade Warren</a>
                 </nav>
