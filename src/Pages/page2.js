@@ -18,7 +18,7 @@ navigate("/page3")
                <h1 className='text-4xl font-bold  leading-[7vh]'>Step 2: Contact Information</h1>
                <p className='text-2xl  font-normal	tracking-wide'>How can we get in touch with you about the job of <br/>your dreams</p>
             </div>
-            <div className='h-[90vh] border border-red-500'>
+            <div className='h-[90vh]'>
             <form className='h-[90vh] w-[70%] mx-auto my-[-10vh] rounded-xl bg-white shadow-[5px_5px_20px_gray]'>
                 <div className='w-[100%] flex justify-center pt-10 items-center'>
                     <img src={Img11}/>

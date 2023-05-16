@@ -20,7 +20,7 @@ navigate("/page4")
                <h1 className='text-4xl font-bold  leading-[7vh]'>Step 3: Experience</h1>
                <p className='text-2xl  font-normal	tracking-wide'>Let’s get you noticed!Work ecperience will increase your chances <br/>of landing that next job</p>
             </div>
-            <div className='h-[90vh] border border-red-500'>
+            <div className='h-[90vh] '>
             <form className='h-[90vh] w-[70%] mx-auto my-[-10vh] rounded-xl bg-white shadow-[5px_5px_20px_gray]'>
                 <div className='w-[100%] flex justify-center pt-10 items-center'>
                     <img src={Img12}/>

@@ -26,7 +26,7 @@ navigate("/complete")
    <>
    <Navbar1/>
   
-   <div className='h-[130vh] border border-red-500'>
+   <div className='h-[130vh] '>
     <div className='flex flex-wrap bg-white rounded-xl w-[80%] ml-[10%]   shadow-[5px_5px_20px_gray]'>
     <div className='border h-[110vh] w-[24%] ml-[5%] rounded-xl mt-[60px]  shadow-[5px_5px_20px_gray]'>
     <nav className="text-center">

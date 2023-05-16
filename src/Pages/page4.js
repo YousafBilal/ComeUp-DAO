@@ -18,7 +18,7 @@ navigate("/page5")
                <h1 className='text-4xl font-bold  leading-[7vh]'>Step 4: Complete your Profile  </h1>
                <p className='text-2xl  font-normal	tracking-wide'>You are just few steps away from you professional CV. How <br/> would you like to start?</p>
             </div>
-            <div className='h-[90vh] border border-red-500'>
+            <div className='h-[90vh]'>
             <form className='h-[90vh] w-[70%] mx-auto my-[-10vh] rounded-xl bg-white shadow-[5px_5px_20px_gray]'>
                 <div className='w-[100%] flex justify-center pt-10 items-center'>
                     <img src={Img14}/>
